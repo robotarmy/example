@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "example.gemspec",
     "lib/example.rb",
     "spec/example_spec.rb",
     "spec/spec_helper.rb"
