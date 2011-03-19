@@ -14,15 +14,11 @@ Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "example"
   gem.homepage = "http://github.com/robotarmy/example"
-  gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.license = "GPLv3"
+  gem.summary = %%This is Example%
+  gem.description = %%This Gem is used to test basic gem interactions - it was generated with jeweler%
   gem.email = "github@robotarmyma.de"
-  gem.authors = ["Curtis & Danny"]
-  # Include your dependencies below. Runtime dependencies are required when using your gem,
-  # and development dependencies are only needed for development (ie running rake tasks, tests, etc)
-  #  gem.add_runtime_dependency 'jabber4r', '> 0.1'
-  #  gem.add_development_dependency 'rspec', '> 1.2.3'
+  gem.authors = ["Curtis Schofield"]
 end
 Jeweler::RubygemsDotOrgTasks.new
 
