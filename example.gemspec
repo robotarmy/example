@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.version = ""
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Curtis & Danny"]
+  s.authors = ["Curtis Schofield"]
   s.date = %q{2011-03-18}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{This Gem is used to test basic gem interactions - it was generated with jeweler}
   s.email = %q{github@robotarmyma.de}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -30,10 +30,10 @@ Gem::Specification.new do |s|
     "spec/spec_helper.rb"
   ]
   s.homepage = %q{http://github.com/robotarmy/example}
-  s.licenses = ["MIT"]
+  s.licenses = ["GPLv3"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{This is Example}
   s.test_files = [
     "spec/example_spec.rb",
     "spec/spec_helper.rb"
